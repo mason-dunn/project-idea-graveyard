@@ -19,3 +19,7 @@ When writing CSS, I find myself spending a lot of time pulling up a calculator t
 ### Figma to CSS Design System Sync Script
 
 At work I was working on a project and some team members mentioned an initiative to one day create a program that would automatically sync our current design system in Figma to our CSS stylesheets. I thought this would be a cool side project and still do, but Figma had to change their API to make variables a paid resource...
+
+### Automatic Timesheet VScode Extension
+
+I've been doing some freelance work and keeping track of time manually is simple but a chore at the same time. I'd like to have an extension where the time I am in a repository is automatically tracked so that I don't have to manually write down my start and stop times.
