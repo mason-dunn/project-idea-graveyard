@@ -2,6 +2,14 @@
 
 ## Applications
 
+### Spotify Session Joiner
+
+My friends and I use the Spotify jam session sometimes and I didn't like how we had to share a link to listen to the same song. I had an idea to allow friends to be notified when you're listening to music and they can join in and listen with you as the please.
+
+### Enginear
+
+Steming from my lack of success in the dating scene, I wanted to shift my search towards someone more tech oriented. However, it's actually really hard to find women in my area who are involved in tech. I'm sure other tech enthusiasts both male and female share the same struggles so why not make an app for it? Would likely be a male dominated app, but this is more of a for fun idea anyway.
+
 ### Online Speedcubing Platform
 
 A hobby of mine is to collect and solve various rubiks cube inspired puzzles and I thought it would be fun to try and make an online platform where users can queue up in a competition with one another to see who can solve the fastest. It would have a leaderboard, ranks, etc.
