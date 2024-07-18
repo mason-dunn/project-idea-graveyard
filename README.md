@@ -2,6 +2,10 @@
 
 ## Applications
 
+### Online Multiplayer Blackjack
+
+I like blackjack. I don't like losing money. That's it.
+
 ### Spotify Session Joiner
 
 My friends and I use the Spotify jam session sometimes and I didn't like how we had to share a link to listen to the same song. I had an idea to allow friends to be notified when you're listening to music and they can join in and listen with you as the please.
