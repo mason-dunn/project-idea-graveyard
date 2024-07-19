@@ -12,7 +12,7 @@ My friends and I use the Spotify jam session sometimes and I didn't like how we 
 
 ### Enginear
 
-Steming from my lack of success in the dating scene, I wanted to shift my search towards someone more tech oriented. However, it's actually really hard to find women in my area who are involved in tech. I'm sure other tech enthusiasts both male and female share the same struggles so why not make an app for it? Would likely be a male dominated app, but this is more of a for fun idea anyway.
+Steming from my lack of success in the dating scene, I wanted to shift my search towards someone more tech oriented. However, it's actually really hard to find women in my area who are involved in tech. I'm sure other tech enthusiasts both male and female share the same struggles so why not make an app for it? Would likely be a male dominated app, but this is more of a for fun idea anyway. I could also change courses and make this more of a pair programmer finder?
 
 ### Online Speedcubing Platform
 
