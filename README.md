@@ -2,6 +2,10 @@
 
 ## Applications
 
+### JavaScript Under the Hood Visualizer
+
+I think it'd be cool to make a visualizer that highlights concepts like the call stack, execution context, microtasks, etc
+
 ### Online Multiplayer Blackjack
 
 I like blackjack. I don't like losing money. That's it.
